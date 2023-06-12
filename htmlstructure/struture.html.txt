@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+
+ <title></title>
+<meta property="og:title" content="Tops Technologies: Best IT Training & Placement Company in ...">
+<meta property="og: descriptions " content="TOPS Technologies is the best IT Training, Software Development, and Placement co. in Gujarat. Over 100000 Students Trained and Placed at 3000+ IT Partner ...
+">
+<meta property="og:image " content=" ">
+<meta property="og:url" content="">
+<style type= "text/css"></style>
+<link rea="stylesheet" href="image/fevicon.png"type="text/css"">
+
+<link rea="icon" href="css/style.css"type="text/x-icon"">
+<script type ="text/javascript"></script>
+<nonscript></nonscript>
+
+
+</head>
+</body>
+</body>
+</html>

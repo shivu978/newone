@@ -1,0 +1,77 @@
+what is html ?
+   
+      html stands for hypertext markup language 
+      html is not any language it is a, markup language
+      html  first time release in 1986 by tim berner lee
+      html is used to make a webpage
+      html file extention.html or htm
+      html is case-insestive markup language 
+    
+    EX:  <p>,<h1>,<H1><html> camel case 
+      
+
+ what is hypertext?
+      
+      hypertext meanse redirect one page to a another page this is called hypertext
+ex:     < a href ='about,html</a>
+
+ what is markup language ?
+     
+     html is not languaga it is an markup language markuo means html markup  with  many language to create  a web page that why we  called it is markup language.
+   Ex:    php+html
+            java +html
+            python +html
+            react + html 
+
+   html structure 
+   
+  about .html 
+  
+<!doctype html>
+<html> 
+<head >
+ <title> </title>
+<meta charset="utf-8">
+</head>
+<body>
+
+</body>
+</html>
+     
+
+what is tag ?
+   tag is uesd to defined in angular brackets in html <html>
+
+
+   tag provides structure of web page
+<from></from>
+<table></table>
+<video></video>
+  
+
+
+ types of tag :
+      
+                    1) paired tag  : tag which start and closed that is called  paired tag
+                       
+                                EX:   <p>shiva</p>,<h1>hello</h1>
+
+
+                     2) non-paired tag :   tag which  start and not need to be closed that s called non-paired tag 
+
+                               EX:   <br>,<hr>,<img>,<meta>,<input>,<p>,<link>
+
+
+      head tags:  
+                    
+                  <title>
+
+
+
+
+         meta: 
+                  
+                  <link>
+                  <style>
+                  <script>
+                  <non-script>
